@@ -1,5 +1,5 @@
 ﻿Three
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Said\Desktop\WPF_Tutorials\Three\Three\App.xaml
 21358919699
 
-7919822785
+51298166703
 198-556154604
 MainWindow.xaml;View\UserControls\MenuBar.xaml;
 
-True
+False
 
