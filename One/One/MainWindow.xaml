@@ -1,0 +1,17 @@
+﻿<Window x:Class="One.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:One"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Name="tbStatus" Text="Hello World!" FontSize="75" />
+        <Button Name="btnToggleRun" Content="Run" 
+                Width="100" Height="50" 
+                VerticalAlignment="Center" HorizontalAlignment="Center"
+                FontSize="30" Click="btnToggleRun_Click"/>
+
+    </Grid>
+</Window>
