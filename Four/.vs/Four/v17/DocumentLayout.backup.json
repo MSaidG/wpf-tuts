@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C0D22B-9AD3-4804-92EF-543A5ADA4DD6}|Four\\Four.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\four\\four\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4C0D22B-9AD3-4804-92EF-543A5ADA4DD6}|Four\\Four.csproj|solutionrelative:four\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C0D22B-9AD3-4804-92EF-543A5ADA4DD6}|Four\\Four.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\four\\four\\view\\usercontrols\\clearabletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C0D22B-9AD3-4804-92EF-543A5ADA4DD6}|Four\\Four.csproj|solutionrelative:four\\view\\usercontrols\\clearabletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C0D22B-9AD3-4804-92EF-543A5ADA4DD6}|Four\\Four.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\four\\four\\view\\usercontrols\\clearabletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4C0D22B-9AD3-4804-92EF-543A5ADA4DD6}|Four\\Four.csproj|solutionrelative:four\\view\\usercontrols\\clearabletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C0D22B-9AD3-4804-92EF-543A5ADA4DD6}|Four\\Four.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\four\\four\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C0D22B-9AD3-4804-92EF-543A5ADA4DD6}|Four\\Four.csproj|solutionrelative:four\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClearableTextBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\Four\\View\\UserControls\\ClearableTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "Four\\View\\UserControls\\ClearableTextBox.xaml.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\Four\\View\\UserControls\\ClearableTextBox.xaml.cs",
+              "RelativeToolTip": "Four\\View\\UserControls\\ClearableTextBox.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:56:08.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClearableTextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\Four\\View\\UserControls\\ClearableTextBox.xaml",
+              "RelativeDocumentMoniker": "Four\\View\\UserControls\\ClearableTextBox.xaml",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\Four\\View\\UserControls\\ClearableTextBox.xaml",
+              "RelativeToolTip": "Four\\View\\UserControls\\ClearableTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-31T18:47:27.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\Four\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Four\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\Four\\MainWindow.xaml",
+              "RelativeToolTip": "Four\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-31T18:39:49.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\Four\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Four\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Four\\Four\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Four\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:49.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
