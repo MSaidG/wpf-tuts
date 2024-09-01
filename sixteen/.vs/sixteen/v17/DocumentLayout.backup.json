@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\sixteen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{416EDD7A-6703-4FCC-BE24-5AB4D07EA88E}|sixteen\\sixteen.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\sixteen\\sixteen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{416EDD7A-6703-4FCC-BE24-5AB4D07EA88E}|sixteen\\sixteen.csproj|solutionrelative:sixteen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{416EDD7A-6703-4FCC-BE24-5AB4D07EA88E}|sixteen\\sixteen.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\sixteen\\sixteen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{416EDD7A-6703-4FCC-BE24-5AB4D07EA88E}|sixteen\\sixteen.csproj|solutionrelative:sixteen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\sixteen\\sixteen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "sixteen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\sixteen\\sixteen\\MainWindow.xaml*",
+              "RelativeToolTip": "sixteen\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-01T13:27:37.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\sixteen\\sixteen\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "sixteen\\MainWindow.xaml.cs",
