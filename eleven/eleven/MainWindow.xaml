@@ -1,0 +1,27 @@
+﻿<Window x:Class="eleven.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:eleven"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Background="LightBlue">
+            <TextBlock Text="Name" FontSize="16"/>
+            <Expander Header="More Details">
+                <TextBlock Text="Description" FontSize="16"/>
+            </Expander>
+            <Button x:Name="btnDetails" Width="100" Height="25" Content="Details"
+                    Click="btnDetails_Click"/>
+        </StackPanel>
+        <Expander Name="expanderDetails" Background="DarkGray" BorderThickness="0"
+                  Grid.Column="1" ExpandDirection="Left">
+            <Rectangle Fill="DarkGray" Width="125"/>
+        </Expander>
+    </Grid>
+</Window>
