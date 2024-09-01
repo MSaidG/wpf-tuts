@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ModalWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\View\\ModalWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Fourteen\\View\\ModalWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\View\\ModalWindow.xaml.cs",
-              "RelativeToolTip": "Fourteen\\View\\ModalWindow.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T11:44:06.457Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -71,6 +58,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Fourteen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Fourteen\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:18:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModalWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\View\\ModalWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Fourteen\\View\\ModalWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\View\\ModalWindow.xaml.cs",
+              "RelativeToolTip": "Fourteen\\View\\ModalWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:44:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\MainWindow.xaml",
@@ -79,19 +92,6 @@
               "RelativeToolTip": "Fourteen\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-01T11:18:23.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Fourteen\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Fourteen\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T11:18:23.603Z",
               "EditorCaption": ""
             }
           ]

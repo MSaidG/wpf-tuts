@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\fourteen\\fourteen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|solutionrelative:fourteen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\fourteen\\fourteen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|solutionrelative:fourteen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\fourteen\\fourteen\\view\\modalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|solutionrelative:fourteen\\view\\modalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\fourteen\\fourteen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|solutionrelative:fourteen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECABCC3C-C358-4A8B-8732-FE284F4FF328}|Fourteen\\Fourteen.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\fourteen\\fourteen\\view\\normalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ModalWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\View\\ModalWindow.xaml",
               "RelativeDocumentMoniker": "Fourteen\\View\\ModalWindow.xaml",
@@ -58,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Fourteen\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\MainWindow.xaml.cs",
               "RelativeToolTip": "Fourteen\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T11:18:23.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ModalWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\View\\ModalWindow.xaml.cs",
               "RelativeDocumentMoniker": "Fourteen\\View\\ModalWindow.xaml.cs",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Fourteen\\Fourteen\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Fourteen\\MainWindow.xaml",
