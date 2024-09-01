@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Ten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2B9631-90E7-4B35-810F-7C44C26D4FCF}|Ten\\Ten.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\ten\\ten\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2B9631-90E7-4B35-810F-7C44C26D4FCF}|Ten\\Ten.csproj|solutionrelative:ten\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Ten\\Ten\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ten\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Ten\\Ten\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ten\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:43:36.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

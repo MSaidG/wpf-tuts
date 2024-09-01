@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Nine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AFED729-6860-4E21-A8E5-1EDCA8CD454F}|Nine\\Nine.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\nine\\nine\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7AFED729-6860-4E21-A8E5-1EDCA8CD454F}|Nine\\Nine.csproj|solutionrelative:nine\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AFED729-6860-4E21-A8E5-1EDCA8CD454F}|Nine\\Nine.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\nine\\nine\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AFED729-6860-4E21-A8E5-1EDCA8CD454F}|Nine\\Nine.csproj|solutionrelative:nine\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,18 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Nine\\Nine\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Nine\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Nine\\Nine\\MainWindow.xaml",
-              "RelativeToolTip": "Nine\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-01T09:35:38.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Nine\\Nine\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Nine\\MainWindow.xaml.cs",
