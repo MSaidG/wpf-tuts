@@ -1,13 +1,19 @@
 ﻿using Stopwatch.Model;
+using System.ComponentModel;
 
 namespace Stopwatch.ViewModel
 {
-    internal class StopwatchViewModel
+    public class StopwatchViewModel : INotifyPropertyChanged
     {
+        public event PropertyChangedEventHandler? PropertyChanged;
+
+        public void OnPropertyChanged(string propertyName) =>
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+
         StopwatchModel _model = new StopwatchModel();
 
         public void StartStop() => _model.Running = !_model.Running;
-        internal void LapTime() => _model.SetLapTime();
+        public void LapTime() => _model.SetLapTime();
         public void Reset() => _model.Reset();
 
 
