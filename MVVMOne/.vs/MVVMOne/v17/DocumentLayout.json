@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|solutionrelative:mvvmone\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmone\\mvvmone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|solutionrelative:mvvmone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmone\\mvvmone\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|solutionrelative:mvvmone\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmone\\mvvmone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|solutionrelative:mvvmone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmone\\mvvmone\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|solutionrelative:mvvmone\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmone\\mvvmone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF711442-479C-42C0-AE00-8EE6C925C0A1}|MVVMOne\\MVVMOne.csproj|solutionrelative:mvvmone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MVVM\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "MVVMOne\\MVVM\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MVVM\\RelayCommand.cs",
-              "RelativeToolTip": "MVVMOne\\MVVM\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:12:32.214Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -57,7 +44,7 @@
               "RelativeDocumentMoniker": "MVVMOne\\MVVM\\ViewModelBase.cs",
               "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MVVM\\ViewModelBase.cs",
               "RelativeToolTip": "MVVMOne\\MVVM\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T15:33:52.753Z",
               "EditorCaption": ""
@@ -70,14 +57,14 @@
               "RelativeDocumentMoniker": "MVVMOne\\ViewModel\\MainWindowsViewModel.cs",
               "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\ViewModel\\MainWindowsViewModel.cs",
               "RelativeToolTip": "MVVMOne\\ViewModel\\MainWindowsViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T15:25:50.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\Model\\Item.cs",
               "RelativeDocumentMoniker": "MVVMOne\\Model\\Item.cs",
@@ -86,18 +73,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T15:23:34.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MVVMOne\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MainWindow.xaml",
-              "RelativeToolTip": "MVVMOne\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-01T15:17:15.074Z",
               "EditorCaption": ""
             },
             {
@@ -111,6 +86,31 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T15:17:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MVVM\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "MVVMOne\\MVVM\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MVVM\\RelayCommand.cs",
+              "RelativeToolTip": "MVVMOne\\MVVM\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:12:32.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVMOne\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMOne\\MVVMOne\\MainWindow.xaml",
+              "RelativeToolTip": "MVVMOne\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-01T15:17:15.074Z",
               "EditorCaption": ""
             }
           ]

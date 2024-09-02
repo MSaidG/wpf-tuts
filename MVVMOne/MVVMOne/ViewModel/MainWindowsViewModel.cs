@@ -1,7 +1,6 @@
 ﻿using MVVMOne.Model;
 using MVVMOne.MVVM;
 using System.Collections.ObjectModel;
-using System.Windows.Controls;
 
 namespace MVVMOne.ViewModel
 {
@@ -12,6 +11,7 @@ namespace MVVMOne.ViewModel
         public RelayCommand AddCommand => new RelayCommand(execute => AddItem());
         public RelayCommand DeleteCommand => new RelayCommand(execute => DeleteItem(), canExecute => SelectedItem != null);
         public RelayCommand SaveCommand => new RelayCommand(execute => Save(), canExecute => CanSave());
+
         public MainWindowsViewModel() 
         {
             Items = new ObservableCollection<Item>();
