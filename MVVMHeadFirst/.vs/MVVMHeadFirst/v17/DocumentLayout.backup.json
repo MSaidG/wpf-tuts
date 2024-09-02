@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\viewmodel\\leagueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\viewmodel\\leagueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\viewmodel\\rosterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\viewmodel\\rosterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\viewmodel\\leagueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\viewmodel\\leagueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\view\\rostercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LeagueViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\ViewModel\\LeagueViewModel.cs",
               "RelativeDocumentMoniker": "MVVMHeadFirst\\ViewModel\\LeagueViewModel.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PlayerViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\ViewModel\\PlayerViewModel.cs",
               "RelativeDocumentMoniker": "MVVMHeadFirst\\ViewModel\\PlayerViewModel.cs",

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4B8D97-A0D5-4B29-AE9C-14463A5A6250}|Stopwatch\\Stopwatch.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\stopwatch\\stopwatch\\view\\stopwatchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4B8D97-A0D5-4B29-AE9C-14463A5A6250}|Stopwatch\\Stopwatch.csproj|solutionrelative:stopwatch\\view\\stopwatchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4B8D97-A0D5-4B29-AE9C-14463A5A6250}|Stopwatch\\Stopwatch.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\stopwatch\\stopwatch\\viewmodel\\stopwatchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4B8D97-A0D5-4B29-AE9C-14463A5A6250}|Stopwatch\\Stopwatch.csproj|solutionrelative:stopwatch\\viewmodel\\stopwatchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4B8D97-A0D5-4B29-AE9C-14463A5A6250}|Stopwatch\\Stopwatch.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\stopwatch\\stopwatch\\model\\stopwatchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4B8D97-A0D5-4B29-AE9C-14463A5A6250}|Stopwatch\\Stopwatch.csproj|solutionrelative:stopwatch\\model\\stopwatchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4B8D97-A0D5-4B29-AE9C-14463A5A6250}|Stopwatch\\Stopwatch.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\stopwatch\\stopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4B8D97-A0D5-4B29-AE9C-14463A5A6250}|Stopwatch\\Stopwatch.csproj|solutionrelative:stopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StopwatchView.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\Stopwatch\\View\\StopwatchView.cs",
+              "RelativeDocumentMoniker": "Stopwatch\\View\\StopwatchView.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\Stopwatch\\View\\StopwatchView.cs",
+              "RelativeToolTip": "Stopwatch\\View\\StopwatchView.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvywAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:45:17.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StopwatchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\Stopwatch\\ViewModel\\StopwatchViewModel.cs",
+              "RelativeDocumentMoniker": "Stopwatch\\ViewModel\\StopwatchViewModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\Stopwatch\\ViewModel\\StopwatchViewModel.cs",
+              "RelativeToolTip": "Stopwatch\\ViewModel\\StopwatchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:43:06.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\Stopwatch\\Program.cs",
+              "RelativeDocumentMoniker": "Stopwatch\\Program.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\Stopwatch\\Program.cs",
+              "RelativeToolTip": "Stopwatch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:36:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StopwatchModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\Stopwatch\\Model\\StopwatchModel.cs",
+              "RelativeDocumentMoniker": "Stopwatch\\Model\\StopwatchModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\Stopwatch\\Model\\StopwatchModel.cs",
+              "RelativeToolTip": "Stopwatch\\Model\\StopwatchModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:37:52.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
