@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\viewmodel\\leagueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\viewmodel\\leagueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\viewmodel\\rosterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\viewmodel\\rosterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\view\\rostercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\view\\rostercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\model\\roster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\model\\roster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmheadfirst\\mvvmheadfirst\\view\\rostercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311183B5-E462-4C1F-A515-91E27FC08D80}|MVVMHeadFirst\\MVVMHeadFirst.csproj|solutionrelative:mvvmheadfirst\\view\\rostercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeagueViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\ViewModel\\LeagueViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMHeadFirst\\ViewModel\\LeagueViewModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\ViewModel\\LeagueViewModel.cs",
+              "RelativeToolTip": "MVVMHeadFirst\\ViewModel\\LeagueViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:13:24.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\ViewModel\\PlayerViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMHeadFirst\\ViewModel\\PlayerViewModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\ViewModel\\PlayerViewModel.cs",
+              "RelativeToolTip": "MVVMHeadFirst\\ViewModel\\PlayerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:11:00.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RosterControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\View\\RosterControl.xaml",
+              "RelativeDocumentMoniker": "MVVMHeadFirst\\View\\RosterControl.xaml",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\View\\RosterControl.xaml",
+              "RelativeToolTip": "MVVMHeadFirst\\View\\RosterControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-02T10:05:27.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RosterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\ViewModel\\RosterViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMHeadFirst\\ViewModel\\RosterViewModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\ViewModel\\RosterViewModel.cs",
+              "RelativeToolTip": "MVVMHeadFirst\\ViewModel\\RosterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:05:20.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "MVVMHeadFirst\\Model\\Player.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\Model\\Player.cs",
+              "RelativeToolTip": "MVVMHeadFirst\\Model\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:14:15.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Roster.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\Model\\Roster.cs",
+              "RelativeDocumentMoniker": "MVVMHeadFirst\\Model\\Roster.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\Model\\Roster.cs",
+              "RelativeToolTip": "MVVMHeadFirst\\Model\\Roster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:13:42.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RosterControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\View\\RosterControl.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMHeadFirst\\View\\RosterControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMHeadFirst\\MVVMHeadFirst\\View\\RosterControl.xaml.cs",
+              "RelativeToolTip": "MVVMHeadFirst\\View\\RosterControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:05:29.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
