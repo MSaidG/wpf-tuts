@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPFStopwatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c09f86c2f8c442d6250ff37594f8eba354578d37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4671685751417d38fec13b7f70a5d9ba5e943e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPFStopwatch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPFStopwatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

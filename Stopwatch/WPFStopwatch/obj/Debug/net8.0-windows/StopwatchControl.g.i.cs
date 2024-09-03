@@ -54,7 +54,7 @@ namespace WPFStopwatch {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPFStopwatch;component/stopwatchcontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPFStopwatch;V1.0.0.0;component/stopwatchcontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\StopwatchControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

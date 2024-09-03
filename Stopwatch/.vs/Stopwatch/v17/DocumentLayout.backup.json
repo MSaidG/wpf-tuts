@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1D21CFE-9B4F-488E-A957-A6095FC8C22C}|WPFStopwatch\\WPFStopwatch.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\stopwatch\\wpfstopwatch\\stopwatchcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E1D21CFE-9B4F-488E-A957-A6095FC8C22C}|WPFStopwatch\\WPFStopwatch.csproj|solutionrelative:wpfstopwatch\\stopwatchcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1D21CFE-9B4F-488E-A957-A6095FC8C22C}|WPFStopwatch\\WPFStopwatch.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\stopwatch\\wpfstopwatch\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E1D21CFE-9B4F-488E-A957-A6095FC8C22C}|WPFStopwatch\\WPFStopwatch.csproj|solutionrelative:wpfstopwatch\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D21CFE-9B4F-488E-A957-A6095FC8C22C}|WPFStopwatch\\WPFStopwatch.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\stopwatch\\wpfstopwatch\\stopwatchcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1D21CFE-9B4F-488E-A957-A6095FC8C22C}|WPFStopwatch\\WPFStopwatch.csproj|solutionrelative:wpfstopwatch\\stopwatchcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1D21CFE-9B4F-488E-A957-A6095FC8C22C}|WPFStopwatch\\WPFStopwatch.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\stopwatch\\wpfstopwatch\\stopwatchcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,6 +54,18 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StopwatchControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\WPFStopwatch\\StopwatchControl.xaml",
+              "RelativeDocumentMoniker": "WPFStopwatch\\StopwatchControl.xaml",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\WPFStopwatch\\StopwatchControl.xaml",
+              "RelativeToolTip": "WPFStopwatch\\StopwatchControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-02T16:24:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "StopwatchControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\WPFStopwatch\\StopwatchControl.xaml.cs",
@@ -67,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\WPFStopwatch\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFStopwatch\\MainWindow.xaml",
@@ -75,18 +87,6 @@
               "RelativeToolTip": "WPFStopwatch\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-02T16:19:12.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StopwatchControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\WPFStopwatch\\StopwatchControl.xaml",
-              "RelativeDocumentMoniker": "WPFStopwatch\\StopwatchControl.xaml",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\Stopwatch\\WPFStopwatch\\StopwatchControl.xaml",
-              "RelativeToolTip": "WPFStopwatch\\StopwatchControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-02T16:24:42.702Z",
               "EditorCaption": ""
             },
             {
