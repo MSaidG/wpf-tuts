@@ -1,5 +1,7 @@
 ﻿using MVVMSing.Commands;
 using MVVMSing.Model;
+using MVVMSing.Services;
+using MVVMSing.Store;
 using System.Windows.Input;
 
 namespace MVVMSing.ViewModel
@@ -45,10 +47,10 @@ namespace MVVMSing.ViewModel
         public ICommand SubmitCommand { get; set; }
         public ICommand CancelCommand { get; set; }
 
-        public MakeReservationViewModel(Hotel hotel)
+        public MakeReservationViewModel(Hotel hotel, NavigationService reservationViewNavigationService)
         {
-            SubmitCommand = new MakeReservationCommand(this, hotel);
-            CancelCommand = new CancelMakeReservationCommand();
+            SubmitCommand = new MakeReservationCommand(this, hotel, reservationViewNavigationService);
+            CancelCommand = new NavigateCommand(reservationViewNavigationService);
         }
     }
 }

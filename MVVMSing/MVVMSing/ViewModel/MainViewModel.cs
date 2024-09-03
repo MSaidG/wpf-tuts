@@ -1,15 +1,22 @@
-﻿using MVVMSing.Model;
+﻿using MVVMSing.Store;
 
 namespace MVVMSing.ViewModel
 {
-    internal class MainViewModel : ViewModelBase
+    internal class MainViewModel : ViewModelBase 
     {
+        private readonly NavigationStore _navigationStore;
+        public ViewModelBase CurrentViewModel => _navigationStore.CurrentViewModel;
 
-        public ViewModelBase CurrentViewModel { get; set; }
-
-        public MainViewModel(Hotel hotel)
+        public MainViewModel(NavigationStore navigationStore)
         {
-            CurrentViewModel = new ReservationListingViewModel();
+            _navigationStore = navigationStore;
+
+            _navigationStore.CurrentViewModelChanged += OnCurrentViewModelChanged;
+        }
+
+        private void OnCurrentViewModelChanged()
+        {
+            OnPropertyChanged(nameof(CurrentViewModel));
         }
     }
 }

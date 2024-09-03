@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\commands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\commands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\commands\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\commands\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\model\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\model\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\viewmodel\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\viewmodel\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\viewmodel\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\viewmodel\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\viewmodel\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\viewmodel\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,24 +11,72 @@
       "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\model\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\exceptions\\reservationconflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\exceptions\\reservationconflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\viewmodel\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\viewmodel\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\store\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\store\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\commands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\commands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\view\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\view\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\viewmodel\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\viewmodel\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\commands\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\commands\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\model\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\model\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\exceptions\\reservationconflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\exceptions\\reservationconflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\view\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -67,16 +91,8 @@
       "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\view\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\view\\reservationlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\view\\reservationlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|c:\\users\\said\\desktop\\wpf_tutorials\\mvvmsing\\mvvmsing\\view\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142BC1FB-C76C-4050-8378-3C7F2B61A01B}|MVVMSing\\MVVMSing.csproj|solutionrelative:mvvmsing\\view\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,11 +102,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationListingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ReservationListingViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\ReservationListingViewModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ReservationListingViewModel.cs",
+              "RelativeToolTip": "MVVMSing\\ViewModel\\ReservationListingViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:30:28.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MakeReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\MakeReservationViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\MakeReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\MakeReservationViewModel.cs",
+              "RelativeToolTip": "MVVMSing\\ViewModel\\MakeReservationViewModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:29:54.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\App.xaml.cs",
+              "RelativeToolTip": "MVVMSing\\App.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vycAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:41:37.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavigationStore.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Store\\NavigationStore.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Store\\NavigationStore.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Store\\NavigationStore.cs",
+              "RelativeToolTip": "MVVMSing\\Store\\NavigationStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:48:09.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\App.xaml",
+              "RelativeDocumentMoniker": "MVVMSing\\App.xaml",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\App.xaml",
+              "RelativeToolTip": "MVVMSing\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T12:52:49.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\Hotel.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Model\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\Hotel.cs",
+              "RelativeToolTip": "MVVMSing\\Model\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:57:41.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MakeReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\MakeReservationCommand.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Commands\\MakeReservationCommand.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\MakeReservationCommand.cs",
+              "RelativeToolTip": "MVVMSing\\Commands\\MakeReservationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:33:20.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Services\\NavigationService.cs",
+              "RelativeToolTip": "MVVMSing\\Services\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:24:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavigateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\NavigateCommand.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Commands\\NavigateCommand.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\NavigateCommand.cs",
+              "RelativeToolTip": "MVVMSing\\Commands\\NavigateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:09:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MVVMSing\\MainWindow.xaml.cs",
@@ -103,145 +235,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReservationViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ReservationViewModel.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\ReservationViewModel.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ReservationViewModel.cs",
-              "RelativeToolTip": "MVVMSing\\ViewModel\\ReservationViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T14:19:19.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MakeReservationViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\MakeReservationViewModel.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\MakeReservationViewModel.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\MakeReservationViewModel.cs",
-              "RelativeToolTip": "MVVMSing\\ViewModel\\MakeReservationViewModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T13:29:54.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReservationBook.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\ReservationBook.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\Model\\ReservationBook.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\ReservationBook.cs",
-              "RelativeToolTip": "MVVMSing\\Model\\ReservationBook.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:41:56.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\App.xaml.cs",
-              "RelativeToolTip": "MVVMSing\\App.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T11:41:37.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MakeReservationCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\MakeReservationCommand.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\Commands\\MakeReservationCommand.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\MakeReservationCommand.cs",
-              "RelativeToolTip": "MVVMSing\\Commands\\MakeReservationCommand.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T15:33:20.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CommandBase.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\CommandBase.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\Commands\\CommandBase.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\CommandBase.cs",
-              "RelativeToolTip": "MVVMSing\\Commands\\CommandBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T15:29:18.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReservationListingViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ReservationListingViewModel.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\ReservationListingViewModel.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ReservationListingViewModel.cs",
-              "RelativeToolTip": "MVVMSing\\ViewModel\\ReservationListingViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T13:30:28.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Hotel.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\Hotel.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\Model\\Hotel.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\Hotel.cs",
-              "RelativeToolTip": "MVVMSing\\Model\\Hotel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:57:41.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\Reservation.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\Model\\Reservation.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\Reservation.cs",
-              "RelativeToolTip": "MVVMSing\\Model\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:41:56.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "MVVMSing\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Title": "MakeReservationView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\View\\MakeReservationView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\View\\MakeReservationView.xaml.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\View\\MakeReservationView.xaml.cs",
+              "RelativeToolTip": "MVVMSing\\View\\MakeReservationView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T13:31:08.8Z",
+              "WhenOpened": "2024-09-03T19:15:23.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ReservationConflictException.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Exceptions\\ReservationConflictException.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\Exceptions\\ReservationConflictException.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Exceptions\\ReservationConflictException.cs",
-              "RelativeToolTip": "MVVMSing\\Exceptions\\ReservationConflictException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "MVVMSing\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T15:50:01.628Z",
+              "WhenOpened": "2024-09-03T13:31:08.8Z",
               "EditorCaption": ""
             },
             {
@@ -259,6 +274,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\ReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ReservationViewModel.cs",
+              "RelativeToolTip": "MVVMSing\\ViewModel\\ReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:19:19.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "MVVMSing\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:52:44.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommandBase.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\CommandBase.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Commands\\CommandBase.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Commands\\CommandBase.cs",
+              "RelativeToolTip": "MVVMSing\\Commands\\CommandBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:29:18.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReservationBook.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\ReservationBook.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Model\\ReservationBook.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\ReservationBook.cs",
+              "RelativeToolTip": "MVVMSing\\Model\\ReservationBook.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:41:56.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\Reservation.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Model\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\Reservation.cs",
+              "RelativeToolTip": "MVVMSing\\Model\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:41:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Exceptions\\ReservationConflictException.cs",
+              "RelativeDocumentMoniker": "MVVMSing\\Exceptions\\ReservationConflictException.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Exceptions\\ReservationConflictException.cs",
+              "RelativeToolTip": "MVVMSing\\Exceptions\\ReservationConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:50:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "MakeReservationView.xaml",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\View\\MakeReservationView.xaml",
               "RelativeDocumentMoniker": "MVVMSing\\View\\MakeReservationView.xaml",
@@ -270,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "RoomID.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\Model\\RoomID.cs",
               "RelativeDocumentMoniker": "MVVMSing\\Model\\RoomID.cs",
@@ -283,19 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\App.xaml",
-              "RelativeDocumentMoniker": "MVVMSing\\App.xaml",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\App.xaml",
-              "RelativeToolTip": "MVVMSing\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-03T12:52:49.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "ReservationListingView.xaml",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\View\\ReservationListingView.xaml",
               "RelativeDocumentMoniker": "MVVMSing\\View\\ReservationListingView.xaml",
@@ -307,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ReservationListingView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\View\\ReservationListingView.xaml.cs",
               "RelativeDocumentMoniker": "MVVMSing\\View\\ReservationListingView.xaml.cs",
@@ -316,19 +397,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T13:09:16.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MakeReservationView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\View\\MakeReservationView.xaml.cs",
-              "RelativeDocumentMoniker": "MVVMSing\\View\\MakeReservationView.xaml.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\WPF_Tutorials\\MVVMSing\\MVVMSing\\View\\MakeReservationView.xaml.cs",
-              "RelativeToolTip": "MVVMSing\\View\\MakeReservationView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:31:47.405Z",
               "EditorCaption": ""
             }
           ]

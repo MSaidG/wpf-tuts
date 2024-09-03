@@ -1,5 +1,6 @@
 ﻿using MVVMSing.Exceptions;
 using MVVMSing.Model;
+using MVVMSing.Services;
 using MVVMSing.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -15,11 +16,14 @@ namespace MVVMSing.Commands
     {
         private readonly MakeReservationViewModel _makeReservationViewModel;
         private readonly Hotel _hotel;
-        public MakeReservationCommand(ViewModel.MakeReservationViewModel makeReservationViewModel, Hotel hotel)
+        private readonly NavigationService _reservationViewNavigationService;
+
+        public MakeReservationCommand(MakeReservationViewModel makeReservationViewModel, Hotel hotel,
+                                        NavigationService reservationViewNavigationService)
         {
             _makeReservationViewModel = makeReservationViewModel;
             _hotel = hotel;
-
+            _reservationViewNavigationService = reservationViewNavigationService;
             _makeReservationViewModel.PropertyChanged += OnViewModelPropertyChanged;
         }
 
@@ -46,6 +50,8 @@ namespace MVVMSing.Commands
             {
                 _hotel.MakeReservation( reservation );
                 MessageBox.Show("Successfully reserved room.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                _reservationViewNavigationService.Navigate();
             }
             catch (ReservationConflictException ex)
             {
