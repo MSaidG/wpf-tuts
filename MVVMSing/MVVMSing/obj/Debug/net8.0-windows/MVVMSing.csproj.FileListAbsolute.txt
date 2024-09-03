@@ -19,3 +19,9 @@ C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\r
 C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\MVVMSing.pdb
 C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\MVVMSing.genruntimeconfig.cache
 C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\ref\MVVMSing.dll
+C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\View\MakeReservationView.g.cs
+C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\View\ReservationListingView.g.cs
+C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\View\MakeReservationView.baml
+C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\View\ReservationListingView.baml
+C:\Users\Said\Desktop\WPF_Tutorials\MVVMSing\MVVMSing\obj\Debug\net8.0-windows\App.baml

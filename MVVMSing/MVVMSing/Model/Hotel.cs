@@ -15,7 +15,7 @@
 
         public IEnumerable<Reservation> GetReservationsForUser(string username)
         {
-            return _reservationBook.GetReservationsForUser(username);
+            return _reservationBook.GetAllReservations();
         }
 
         public void MakeReservation(Reservation reservation)
