@@ -1,4 +1,5 @@
-﻿using MVVMSing.Model;
+﻿using MVVMSing.Commands;
+using MVVMSing.Model;
 using System.Collections.ObjectModel;
 using System.Windows.Input;
 
@@ -15,6 +16,8 @@ namespace MVVMSing.ViewModel
         public ReservationListingViewModel()
         {
             _reservations = new ObservableCollection<ReservationViewModel>();
+
+            MakeReservationCommand = new NavigateCommand();
 
             _reservations.Add(new ReservationViewModel(new Reservation(new RoomID(1,2), "SingletonSean", DateTime.Now, DateTime.Now)));
             _reservations.Add(new ReservationViewModel(new Reservation(new RoomID(1,2), "Joe", DateTime.Now, DateTime.Now)));
