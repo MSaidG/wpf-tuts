@@ -16,15 +16,5 @@
             StartDate = startTime;
             EndDate = endTime;
         }
-
-        internal bool Conflicts(Reservation reservation)
-        {
-            if (reservation.RoomID != RoomID)
-            {
-                return false;
-            }
-
-            return reservation.StartDate <EndDate || reservation.EndDate > StartDate;
-        }
     }
 }

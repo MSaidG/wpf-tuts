@@ -12,7 +12,7 @@ using System.Windows;
 
 namespace MVVMSing.Commands
 {
-    internal class MakeReservationCommand : CommandBase
+    internal class MakeReservationCommand : AsyncCommandBase
     {
         private readonly MakeReservationViewModel _makeReservationViewModel;
         private readonly Hotel _hotel;
@@ -37,7 +37,7 @@ namespace MVVMSing.Commands
             }
         }
 
-        public override void Execute(object? parameter)
+        public override async Task ExecuteAsync(object? parameter)
         {
             Reservation reservation = new Reservation(
                 new RoomID(_makeReservationViewModel.FloorNumber, _makeReservationViewModel.RoomNumber),
@@ -48,15 +48,21 @@ namespace MVVMSing.Commands
 
             try
             {
-                _hotel.MakeReservation( reservation );
-                MessageBox.Show("Successfully reserved room.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                await _hotel.MakeReservation( reservation );
+                MessageBox.Show("Successfully reserved room.", "Success", 
+                    MessageBoxButton.OK, MessageBoxImage.Information);
 
                 _reservationViewNavigationService.Navigate();
             }
             catch (ReservationConflictException ex)
             {
-                MessageBox.Show( ex.Message , "Error", MessageBoxButton.OK, MessageBoxImage.Error);
-                throw;
+                MessageBox.Show("The Room is already taken!", "Error", 
+                    MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Error", 
+                    MessageBoxButton.OK, MessageBoxImage.Error);
             }
 
         }

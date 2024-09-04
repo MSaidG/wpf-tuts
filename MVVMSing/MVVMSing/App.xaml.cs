@@ -1,6 +1,11 @@
-﻿using MVVMSing.Exceptions;
+﻿using Microsoft.EntityFrameworkCore;
+using MVVMSing.Db;
+using MVVMSing.Exceptions;
 using MVVMSing.Model;
 using MVVMSing.Services;
+using MVVMSing.Services.ReservationConflictValidators;
+using MVVMSing.Services.ReservationCreators;
+using MVVMSing.Services.ReservationProviders;
 using MVVMSing.Store;
 using MVVMSing.ViewModel;
 using System.Configuration;
@@ -14,16 +19,31 @@ namespace MVVMSing
     /// </summary>
     public partial class App : Application
     {
+        private const string CONNECTION_STRING = "Data Source=reservoom.db";
         private readonly Hotel _hotel;
         private readonly NavigationStore _navigationStore;
+        private readonly ReservoomDbContextFactory _reservoomDbContextFactory;
 
         public App()
         {
-            _hotel = new Hotel("Singleton Suites");
+            _reservoomDbContextFactory = new ReservoomDbContextFactory(CONNECTION_STRING);
+            IReservationConflictValidator reservationConflictValidator = new DatabaseReservationConflictValidator(_reservoomDbContextFactory);
+            IReservationProvider reservationProvider = new DatabaseReservationProvider(_reservoomDbContextFactory);
+            IReservationCreator reservationCreator = new DatabaseReservationCreator(_reservoomDbContextFactory);
+
+            ReservationBook reservationBook = new ReservationBook(reservationProvider, reservationCreator, reservationConflictValidator);
+
+            _hotel = new Hotel("Singleton Suites", reservationBook);
             _navigationStore = new NavigationStore();
         }
         protected override void OnStartup(StartupEventArgs e)
         {
+            DbContextOptions options = new DbContextOptionsBuilder().UseSqlite(CONNECTION_STRING).Options;
+            using (ReservoomDbContext dbContext = _reservoomDbContextFactory.CreateDbContext())
+            {
+                dbContext.Database.Migrate();
+            }
+
             _navigationStore.CurrentViewModel = CreateReservationViewModel();
             MainWindow = new MainWindow()
             {
@@ -42,7 +62,7 @@ namespace MVVMSing
 
         private ReservationListingViewModel CreateReservationViewModel()
         {
-            return new ReservationListingViewModel(_hotel, new NavigationService(_navigationStore, CreateMakeReservationViewModel));
+            return ReservationListingViewModel.LoadViewModel(_hotel, new NavigationService(_navigationStore, CreateMakeReservationViewModel));
         }
     }
 
