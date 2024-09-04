@@ -1,6 +1,7 @@
 ﻿using MVVMSing.Exceptions;
 using MVVMSing.Model;
 using MVVMSing.Services;
+using MVVMSing.Store;
 using MVVMSing.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -15,14 +16,14 @@ namespace MVVMSing.Commands
     internal class MakeReservationCommand : AsyncCommandBase
     {
         private readonly MakeReservationViewModel _makeReservationViewModel;
-        private readonly Hotel _hotel;
+        private readonly HotelStore _hotelStore;
         private readonly NavigationService _reservationViewNavigationService;
 
-        public MakeReservationCommand(MakeReservationViewModel makeReservationViewModel, Hotel hotel,
+        public MakeReservationCommand(MakeReservationViewModel makeReservationViewModel, HotelStore hotelStore,
                                         NavigationService reservationViewNavigationService)
         {
             _makeReservationViewModel = makeReservationViewModel;
-            _hotel = hotel;
+            _hotelStore = hotelStore;
             _reservationViewNavigationService = reservationViewNavigationService;
             _makeReservationViewModel.PropertyChanged += OnViewModelPropertyChanged;
         }
@@ -48,7 +49,7 @@ namespace MVVMSing.Commands
 
             try
             {
-                await _hotel.MakeReservation( reservation );
+                await _hotelStore.MakeReservation(reservation);
                 MessageBox.Show("Successfully reserved room.", "Success", 
                     MessageBoxButton.OK, MessageBoxImage.Information);
 

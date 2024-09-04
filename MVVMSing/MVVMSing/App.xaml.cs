@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MVVMSing.Db;
-using MVVMSing.Exceptions;
 using MVVMSing.Model;
 using MVVMSing.Services;
 using MVVMSing.Services.ReservationConflictValidators;
@@ -8,8 +7,6 @@ using MVVMSing.Services.ReservationCreators;
 using MVVMSing.Services.ReservationProviders;
 using MVVMSing.Store;
 using MVVMSing.ViewModel;
-using System.Configuration;
-using System.Data;
 using System.Windows;
 
 namespace MVVMSing
@@ -21,6 +18,7 @@ namespace MVVMSing
     {
         private const string CONNECTION_STRING = "Data Source=reservoom.db";
         private readonly Hotel _hotel;
+        private readonly HotelStore _hotelStore;
         private readonly NavigationStore _navigationStore;
         private readonly ReservoomDbContextFactory _reservoomDbContextFactory;
 
@@ -34,6 +32,7 @@ namespace MVVMSing
             ReservationBook reservationBook = new ReservationBook(reservationProvider, reservationCreator, reservationConflictValidator);
 
             _hotel = new Hotel("Singleton Suites", reservationBook);
+            _hotelStore = new HotelStore(_hotel);
             _navigationStore = new NavigationStore();
         }
         protected override void OnStartup(StartupEventArgs e)
@@ -57,12 +56,12 @@ namespace MVVMSing
 
         private MakeReservationViewModel CreateMakeReservationViewModel()
         {
-            return new MakeReservationViewModel(_hotel, new NavigationService(_navigationStore, CreateReservationViewModel));
+            return new MakeReservationViewModel(_hotelStore, new NavigationService(_navigationStore, CreateReservationViewModel));
         }
 
         private ReservationListingViewModel CreateReservationViewModel()
         {
-            return ReservationListingViewModel.LoadViewModel(_hotel, new NavigationService(_navigationStore, CreateMakeReservationViewModel));
+            return ReservationListingViewModel.LoadViewModel(_hotelStore, new NavigationService(_navigationStore, CreateMakeReservationViewModel));
         }
     }
 

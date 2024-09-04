@@ -47,9 +47,9 @@ namespace MVVMSing.ViewModel
         public ICommand SubmitCommand { get; set; }
         public ICommand CancelCommand { get; set; }
 
-        public MakeReservationViewModel(Hotel hotel, NavigationService reservationViewNavigationService)
+        public MakeReservationViewModel(HotelStore hotelStore, NavigationService reservationViewNavigationService)
         {
-            SubmitCommand = new MakeReservationCommand(this, hotel, reservationViewNavigationService);
+            SubmitCommand = new MakeReservationCommand(this, hotelStore, reservationViewNavigationService);
             CancelCommand = new NavigateCommand(reservationViewNavigationService);
         }
     }
